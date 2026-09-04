@@ -256,9 +256,9 @@ function trocarImagem(escolha) {
     switch(escolha){
         case "1":
           urlNova = 'PRIMITIVA.jpeg';
-          textoprincipal.innerText="Formação e Movimentos da Terra?";
-          texto.innerText="A Terra começou a se formar há aproximadamente 4,5 bilhões de anos, a partir da aglomeração de materiais que orbitavam o jovem Sol. No início, o planeta era muito quente, com intensa atividade vulcânica e uma superfície ainda sem condições para a vida. Com o passar de milhões de anos, a Terra foi se resfriando, formando uma crosta sólida. Gases liberados pela atividade vulcânica contribuíram para a formação da atmosfera primitiva, enquanto o resfriamento permitiu a condensação de água e o surgimento dos primeiros oceanos.";
-          descrevefigura.innerText="Imagem dA tERRA vERMELHA pRIMITIVA";
+          textoprincipal.innerText="Terra Primitiva";ilhões de ano
+          texto.innerText="A Terra primitiva era um cenário caótico e violento que durou entre 4,6 e 3,5 bilhões de anos atrás, caracterizado por uma superfície ardente coberta por oceanos de magma, intensa atividade vulcânica e constante bombardeio de meteoritos. Sua atmosfera original era tóxica e sem oxigênio, composta por gases como metano, gás carbônico e vapor de água, além de ser castigada por altos níveis de radiação ultravioleta devido à ausência da camada de ozônio. Com o resfriamento gradual do planeta, esse vapor de água se condensou em chuvas torrenciais que duraram séculos, criando os oceanos primitivos (a "sopa primordial") onde reações químicas estimuladas por raios e calor deram origem às primeiras moléculas orgânicas e, eventualmente, aos primeiros seres vivos unicelulares do planeta.";
+          descrevefigura.innerText="Imagem da Terra Primitiva Vermelha";
           break;
         case "2":
             urlNova = 'PRIMITIVA.jpeg';
