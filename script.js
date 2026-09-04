@@ -255,25 +255,25 @@ function trocarImagem(escolha) {
     const imagemnova=document.getElementById('imagemPrincipal');
     switch(escolha){
         case "1":
-          urlNova = 'PRIMITIVA.jpeg';
+          urlNova = 'PRIMITIVA.jpg';
           textoprincipal.innerText="Terra Primitiva";ilhões de ano
           texto.innerText="A Terra primitiva era um cenário caótico e violento que durou entre 4,6 e 3,5 bilhões de anos atrás, caracterizado por uma superfície ardente coberta por oceanos de magma, intensa atividade vulcânica e constante bombardeio de meteoritos. Sua atmosfera original era tóxica e sem oxigênio, composta por gases como metano, gás carbônico e vapor de água, além de ser castigada por altos níveis de radiação ultravioleta devido à ausência da camada de ozônio. Com o resfriamento gradual do planeta, esse vapor de água se condensou em chuvas torrenciais que duraram séculos, criando os oceanos primitivos (a "sopa primordial") onde reações químicas estimuladas por raios e calor deram origem às primeiras moléculas orgânicas e, eventualmente, aos primeiros seres vivos unicelulares do planeta.";
           descrevefigura.innerText="Imagem da Terra Primitiva Vermelha";
           break;
         case "2":
-            urlNova = 'PRIMITIVA.jpeg';
+            urlNova = 'PRIMITIVA.jpg';
             textoprincipal.innerText="ComoImpacto de Theia";
             texto.innerText="paragrafo";
             descrevefigura.innerText="Imagem dA tERRA vERMELHA pRIMITIVA";
             break;
           case "3":
-                urlNova = 'PRIMITIVA.jpeg';
+                urlNova = 'PRIMITIVA.jpg';
                 textoprincipal.innerText="Como explicar o Sol?";
                 texto.innerText="paragrafo";
                 descrevefigura.innerText="Imagem dA tERRA vERMELHA pRIMITIVA";
                 break;
             case "4":
-                    urlNova = 'PRIMITIVA.jpeg';
+                    urlNova = 'PRIMITIVA.jpg';
                     textoprincipal.innerText="Como explicar o Sol?";
                     texto.innerText="paragrafo";
                     descrevefigura.innerText="Imagem dA tERRA vERMELHA pRIMITIVA";
